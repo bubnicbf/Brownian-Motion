@@ -3,9 +3,9 @@ Brownian motion simulation in an M-dimensional region
 
 Brownian motion is a physical phenomenon which can be observed, for instance, when a small particle is immersed in a liquid. The particle will move as though under the influence of random forces of varying direction and magnitude.
 
-There is a mathematical idealization of this motion, and from there a computational discretization that allows us to simulate the successive positions of a particle undergoing Brownian motion.
+##There is a mathematical idealization of this motion, and from there a computational discretization that allows us to simulate the successive positions of a particle undergoing Brownian motion.
 
-##Brownian motion or pedesis (from Greek: πήδησις) 
+Brownian motion or pedesis (from Greek: πήδησις) 
 
 is the random motion of particles suspended in a fluid (a liquid or a gas) resulting from their collision with the quick atoms or molecules in the gas or liquid. The term "Brownian motion" can also refer to the mathematical model used to describe such random movements, which is often called a particle theory.
 
