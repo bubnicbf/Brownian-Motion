@@ -1,3 +1,6 @@
+/*
+simulates Brownian motion
+*/
 function x = BrownianMotionSimulation ( m, n, d, t )
 
   if ( nargin < 4 )
